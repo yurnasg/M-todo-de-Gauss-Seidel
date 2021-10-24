@@ -1,1 +1,1 @@
-# M-todo-de-Gauss-Seidel
+# Método-de-Gauss-Seidel
