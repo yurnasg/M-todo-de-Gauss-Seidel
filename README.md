@@ -1,0 +1,1 @@
+# M-todo-de-Gauss-Seidel
