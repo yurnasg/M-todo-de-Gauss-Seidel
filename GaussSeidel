@@ -1,0 +1,2 @@
+def gaussSeidel(A, B, vetorSolucao, iteracoes)
+    
